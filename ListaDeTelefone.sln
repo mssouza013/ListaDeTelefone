@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeTelefone", "ListaDeTelefone\ListaDeTelefone.csproj", "{D70DC558-F79B-48B6-92F6-B8745C8F3384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{383CA4A1-A61D-4A92-98E5-CB2607F6DD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70DC558-F79B-48B6-92F6-B8745C8F3384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70DC558-F79B-48B6-92F6-B8745C8F3384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70DC558-F79B-48B6-92F6-B8745C8F3384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70DC558-F79B-48B6-92F6-B8745C8F3384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383CA4A1-A61D-4A92-98E5-CB2607F6DD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383CA4A1-A61D-4A92-98E5-CB2607F6DD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383CA4A1-A61D-4A92-98E5-CB2607F6DD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383CA4A1-A61D-4A92-98E5-CB2607F6DD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43685F5D-FA5F-4B36-9D41-3F0FE730F01D}
+	EndGlobalSection
+EndGlobal
